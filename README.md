@@ -301,7 +301,8 @@ int main(int argc, char **argv)
     return EXIT_SUCCESS;
 }
 ## Output:
-![image](https://github.com/ezhilmathir/PCA-Simple-warp-divergence---Implement-Sum-Reduction./assets/94210147/8c5f44b3-d56d-4506-b3f7-1b29be66169c)
+![image](<img width="956" alt="image" src="https://github.com/ezhilmathir/PCA-Simple-warp-divergence---Implement-Sum-Reduction./assets/94210147/03c2cedf-9bef-4bb2-abcf-673566033d8a">
+
 
 
 ## Result:
