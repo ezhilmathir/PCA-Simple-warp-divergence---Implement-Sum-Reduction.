@@ -300,6 +300,8 @@ int main(int argc, char **argv)
     CHECK(cudaDeviceReset());
     return EXIT_SUCCESS;
 }
+
+```
 ## Output:
 ![image](<img width="956" alt="image" src="https://github.com/ezhilmathir/PCA-Simple-warp-divergence---Implement-Sum-Reduction./assets/94210147/03c2cedf-9bef-4bb2-abcf-673566033d8a">
 
